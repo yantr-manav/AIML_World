@@ -1,0 +1,7 @@
+{
+  "cursor_sensitivity": 1.0,
+  "gesture_hold_time": 0.25,
+  "voice_activation_phrase": "hey agent",
+  "auto_screenshots": true,
+  "smart_window_management": true
+}
